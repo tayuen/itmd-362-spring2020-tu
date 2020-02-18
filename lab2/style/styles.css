@@ -47,7 +47,7 @@ p{
 h1 {
   font-size: 100px;
   color: green;
-  text-align: centre;
+  text-align: center;
   padding-right:auto;
 }
 
@@ -62,7 +62,7 @@ h1 {
   
   div{
 	color: georgian;
-	text-align: centre;
+	text-align: center;
 	font-size:15px;
 	border: 1px solid black;
  
