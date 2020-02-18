@@ -48,7 +48,6 @@ h1 {
   font-size: 100px;
   color: green;
   text-align: center;
-  padding-right:auto;
 }
 
 
@@ -61,7 +60,7 @@ h1 {
 
   
   div{
-	color: georgian;
+	color: gray;
 	text-align: center;
 	font-size:15px;
 	border: 1px solid black;
